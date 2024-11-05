@@ -1,4 +1,4 @@
 #include <iostream>
 int  main(){
-     std:: cout <<" thee "
+     std:: cout <<" some thing "
 ; }
