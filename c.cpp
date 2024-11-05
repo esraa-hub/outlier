@@ -1,4 +1,4 @@
 #include <iostream>
 int  main(){
-     std:: cout <<" not master "
+     std:: cout <<"  this is not master change to upload on git hub "
 ; }
